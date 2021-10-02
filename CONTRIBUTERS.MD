@@ -88,6 +88,7 @@
 | Anku Kumar           | [@ankukumar](https://github.com/katanaop6)                    |         0        |
 | Bhaskar Kumar        | [@bhaskarkumar1] (https://github.com/bhaskarkumar1)           |         1        |
 | Amy Tan              | [@whysogreen](https://github.com/whysogreen)                  |         1        |
+| Swarnava Halder      | [@swrnv](https://github.com/swrnv)                            |         1        |
 | Dev Boy              | [@devboy](https://github.com/DevBoy69)                        |         1        |
 | Priyadarshini Acharjee| [@Priyadarshini-25](https://github.com/Priyadarshini-25)     |         1        |
 | Ravi Gupta           | [@raviguptalive](https://github.com/raviguptalive)            |         0        |
@@ -158,3 +159,4 @@
 | Fikri Khairul Shaleh | [@fikriks](https://github.com/fikriks)                        |         1        |
 | Sahil Sarwar         | [@sk25469](https://github.com/sk25469)                        |         1        |
 | Tanmoy Sengupta      | [@TSG405](https://github.com/tsg405)                          |         1        |
+| Bikram Purkait       | [@IamBikramPurkait](https://github.com/IamBikramPurkait)      |         1        |
